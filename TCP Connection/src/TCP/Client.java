@@ -1,3 +1,5 @@
+// Derechos Reservados Para DenebS4c
+
 package TCP;
 
 import java.io.BufferedReader;
@@ -52,3 +54,5 @@ public class Client {
 	}
 
 }
+
+// Derechos Reservados Para DenebS4c
