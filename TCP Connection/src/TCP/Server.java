@@ -37,15 +37,8 @@ public class Server  {
 		while (true) {
 			System.out.print("> ");
 			String Cosas = scanner.nextLine();
-			
-			if (Cosas == "stop") {
-				System.out.println("Server Parado !");
-				socket.close();
-			}
-			
 			out_socket.println(Cosas);
 			String message = in_socket.readLine();
-			 
 			System.out.println("[ "+dtf.format(now)+" ]"+" Cliente Dijo > "+ message);
 			
 			
