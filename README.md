@@ -2,11 +2,11 @@
 
 __📷 Photos (Server Side):__
 
-![image](https://daiki.go-outsi.de/57Fu1bJjD)
+![image](https://cdn.discordapp.com/attachments/805262407646576711/878341030515179520/57Fu1bJjD.png)
 
 __📷 Photos (Client Side):__
 
-![image](https://daiki.go-outsi.de/57FueeER5)
+![image](https://cdn.discordapp.com/attachments/805262407646576711/878341040518615081/57FueeER5.png)
 ****
 # Use Server:
 
