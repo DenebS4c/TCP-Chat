@@ -20,7 +20,7 @@ public class Client {
 	public Client() throws IOException {
 		
 		Socket socket = new Socket("localhost", 4444);
-		System.out.println("Conectado Coreectamente Al Servidor !");
+		System.out.println("Conectado Correctamente Al Servidor !");
 		
 		BufferedReader in_socket = new BufferedReader(new InputStreamReader(socket.getInputStream()));
 		PrintWriter out_socket = new PrintWriter(new OutputStreamWriter(socket.getOutputStream()), true);
