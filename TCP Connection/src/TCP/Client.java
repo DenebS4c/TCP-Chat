@@ -33,10 +33,6 @@ public class Client {
 			System.out.println("[ "+dtf.format(now)+" ]"+" Server Dijo > "+ message);
 			System.out.print("> ");
 			String Cosas = scanner.nextLine();
-			if (Cosas == "stop") {
-				System.out.println("Client Parado !");
-				socket.close();
-			}
 			out_socket.println(Cosas);
 			
 		}
