@@ -10,11 +10,11 @@ __📷 Photos (Client Side):__
 ****
 # Use Server:
 
-⌨ __java -jar Server.py__
+⌨ __java -jar Server.jar__
 
 # Use Client:
 
-⌨ __java -jar Client.py__
+⌨ __java -jar Client.jar__
 
 ****
 # INFO
